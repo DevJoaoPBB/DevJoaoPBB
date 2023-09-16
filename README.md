@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </head>
 <body>
     <header>
-         <img src="https://4kwallpapers.com/images/walls/thumbs_2t/2068.jpg"/>
+         <img src="Assets/background.png"/>
     </header>
     <section>
         <h2>Minhas Informações 📄</h2>
