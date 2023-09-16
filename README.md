@@ -63,8 +63,11 @@ Here are some ideas to get you started:
 <h2>Databases:</h2>
  <img width="70" height="70" src="Assets/firebird.png"/>
   <img width="70" height="70" src="https://img.icons8.com/color/70/mysql-logo.png" alt="mysql-logo"/>
-  <img width="70" height="70" src="https://img.icons8.com/ios-filled/70/postgreesql.png" alt="postgreesql"/>
-    
+  <img width="70" height="70" src="Assets/postgresql.png"/>
+
+ <h2>Tools/Ide's...</h2> 
+ <img width="70" height="70" src="https://img.icons8.com/color/70/delphi-ide.png" alt="delphi-ide"/>
+ <img width="70" height="70" src="https://img.icons8.com/fluency/70/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 </div>
 
 <h2> 📩 Find Me </h2>
