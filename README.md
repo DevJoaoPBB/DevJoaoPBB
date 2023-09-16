@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </head>
 <body>
     <header>
-    <h1>João Pedro Bagnara Boeing/h1>
+    <h1>João Pedro Bagnara Boeing</h1>
     </header>
     <section>
         <h2>Minhas Informações 📄</h2>
