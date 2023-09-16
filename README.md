@@ -61,7 +61,7 @@ Here are some ideas to get you started:
  <img width="75" height="75" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
 
 <h2>Databases:</h2>
- <img width="70" height="70" src="firebird.png"/>
+ <img width="70" height="70" src="Assets/firebird.png"/>
     
 </div>
 
