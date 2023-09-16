@@ -20,8 +20,7 @@ Here are some ideas to get you started:
 </head>
 <body>
     <header>
-        <h1>João Pedro Bagnara Boeing 😎</h1>
-        <h4>Analista de Suporte Técnico Júnior 🛠️<h4>
+         <img src="https://4kwallpapers.com/images/walls/thumbs_3t/2068.jpg"/>
     </header>
     <section>
         <h2>Minhas Informações 📄</h2>
