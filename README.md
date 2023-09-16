@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </head>
 <body>
     <header>
-         <img src="Assets/background.png"/>
+         <img src="Assets/backgroud.png"/>
     </header>
     <section>
         <h2>Minhas Informações 📄</h2>
