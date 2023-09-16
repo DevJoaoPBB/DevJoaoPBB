@@ -31,27 +31,12 @@ Here are some ideas to get you started:
             <li><strong>Formação:</strong> Cursando Sistemas de Informação no IFPR - Campus Ivaiporã 🎓</li>
         </ul>
     </section>
-    <footer>
-        <p>Conecte-se comigo:</p>
-        <a href="#">LinkedIn</a> |
-        <a href="https://www.instagram.com/joao_pedro_boeing/">Instagram</a> |
-        <a href="#">GitHub</a>
-    </footer>
-    <img height="300" src="https://user-images.githubusercontent.com/60597290/151966205-54a50cb6-2401-49bc-992c-dd926c8ecd09.svg"/>
+       
   
-![](https://komarev.com/ghpvc/?username=DevJoaoPBB&color=blueviolet&label=Profile+Views)
+<!--[](https://komarev.com/ghpvc/?username=DevJoaoPBB&color=blueviolet&label=Profile+Views) /-->
 
 <br>
 <br>
-<br>
-
-<h2> ✨ Github Status 👇 </h2>
-
-<div align="center">  
-  <a href="https://github.com/DevJoaoPBB">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevJoaoPBB&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJoaoPBB&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
 
 <h2> Languages: </h2>
 
@@ -70,6 +55,13 @@ Here are some ideas to get you started:
  <img width="70" height="70" src="https://img.icons8.com/fluency/70/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 </div>
 
+<h2> ✨My Github Status 👇 </h2>
+
+<div align="center">  
+  <a href="https://github.com/DevJoaoPBB">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevJoaoPBB&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJoaoPBB&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
 <h2> 📩 Find Me </h2>
   
 <div>
