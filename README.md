@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </head>
 <body>
     <header>
-         <img src="https://4kwallpapers.com/images/walls/thumbs_3t/2068.jpg"/>
+         <img src="https://tenor.com/pt-BR/view/welcome-gif-23602207"/>
     </header>
     <section>
         <h2>Minhas Informações 📄</h2>
