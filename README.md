@@ -53,7 +53,7 @@ Here are some ideas to get you started:
  <img width="70" height="70" src="https://img.icons8.com/fluency/70/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 </div>
 
-<h2> ✨My Github Status✨ 👇 </h2>
+<h2> ✨My Github Status 👇 </h2>
 
 <div align="center">  
   <a href="https://github.com/DevJoaoPBB">
