@@ -62,6 +62,8 @@ Here are some ideas to get you started:
 
 <h2>Databases:</h2>
  <img width="70" height="70" src="Assets/firebird.png"/>
+  <img width="70" height="70" src="Assets/mysql.png"/>
+   <img width="70" height="70" src="Assets/postgre.png"/>
     
 </div>
 
