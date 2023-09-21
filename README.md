@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <body>
     <header>
 <div>
-<img width="140" height="140" src="https://media.tenor.com/PfwqKNNydVEAAAAC/welcome.gif"/>
+<img width="140" height="80" src="https://media.tenor.com/PfwqKNNydVEAAAAC/welcome.gif"/>
 
 </div>
     </header>
