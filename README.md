@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 </head>
 <body>
     <header>
-     
-
+<div>
 <img width="75" height="75" src="https://media0.giphy.com/media/Rsp9jLIy0VZOKlZziw/giphy.webp?cid=6c09b952wkf5ipibej7kojkovon80i7kbc92c3gfvj0mptls&ep=v1_internal_gif_by_id&rid=giphy.webp&ct=g"/>
 
+</div>
     </header>
     <section>
         <h2>Minhas Informações 📄</h2>
