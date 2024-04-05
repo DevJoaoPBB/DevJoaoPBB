@@ -28,7 +28,7 @@ Here are some ideas to get you started:
         <h2>Minhas Informações 📄</h2>
         <ul>
             <li><strong>Nome:</strong> João Pedro Bagnara Boeing</li>
-            <li><strong>Profissão:</strong> Analista de Suporte Técnico Júnior 🛠️</li>
+            <li><strong>Profissão:</strong> Analista de Suporte Técnico Júnior - Interface Sistemas Inteligentes 🛠️</li>
             <li><strong>Formação:</strong> Cursando Sistemas de Informação no IFPR - Campus Ivaiporã 🎓</li>
         </ul>
     </section>
