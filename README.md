@@ -29,7 +29,7 @@ Here are some ideas to get you started:
         <ul>
             <li><strong>Nome:</strong> João Pedro Bagnara Boeing</li>
             <li><strong>Profissão:</strong> Desenvolvedor Junior - Interface Sistemas Inteligentes 🛠️</li>
-            <li><strong>Formação:</strong> Cursando Sistemas de Informação no IFPR - Campus Ivaiporã 🎓</li>
+            <li><strong>Formação:</strong> Cursando Sistemas de Informação IFPR - Campus Ivaiporã 🎓</li>
         </ul>
     </section>
        
