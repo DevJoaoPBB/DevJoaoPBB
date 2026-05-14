@@ -28,8 +28,9 @@ Here are some ideas to get you started:
         <h2>Minhas Informações 📄</h2>
         <ul>
             <li><strong>Nome:</strong> João Pedro Bagnara Boeing</li>
-            <li><strong>Profissão:</strong> Desenvolvedor Junior - Interface Sistemas Inteligentes 🛠️</li>
+            <li><strong>Profissão:</strong> Desenvolvedor Delphi - Interface Sistemas Inteligentes 🛠️</li>
             <li><strong>Formação:</strong> Cursando Sistemas de Informação IFPR - Campus Ivaiporã 🎓</li>
+            <li><strong>Projetos:</strong> AgroBR e AlphaBR 🛠️</li>
         </ul>
     </section>
        
@@ -37,33 +38,47 @@ Here are some ideas to get you started:
 <!--[](https://komarev.com/ghpvc/?username=DevJoaoPBB&color=blueviolet&label=Profile+Views) /-->
 
 <br>
-<br>
-
-<h2> Languages: </h2>
+ 
+<h2> I.As Favoritas: </h2>
 
 <div style="display: inline_block"><br>
- <img width="75" height="75" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
- <img width="75" height="75" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
- <img width="75" height="75" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
+ <img width="70" height="70" src="https://img.icons8.com/liquid-glass/96/chatgpt.png" alt="chatgpt"/>
+<img width="70" height="70" src="https://img.icons8.com/color/96/deepseek.png" alt="deepseek"/>
+<img width="70" height="70" src="https://img.icons8.com/fluency/96/claude-ai.png" alt="claude-ai"/>
+<img width="70" height="70" src="https://img.icons8.com/liquid-glass/96/grok.png" alt="grok"/>
+ 
 
-<h2>Databases:</h2>
+<h2> Linguagens de Programação: </h2>
+
+<div style="display: inline_block"><br>
+ <img width="75" height="75" src="https://img.icons8.com/color/96/html-5--v1.png" alt="html-5--v1"/>
+ <img width="75" height="75" src="https://img.icons8.com/color/96/css3.png" alt="css3"/>
+ <img width="75" height="75" src="https://img.icons8.com/color/96/javascript--v1.png" alt="javascript--v1"/>
+ 
+<h2>Bancos de Dados:</h2>
  <img width="70" height="70" src="Assets/firebird.png"/>
-  <img width="70" height="70" src="https://img.icons8.com/color/70/mysql-logo.png" alt="mysql-logo"/>
+  <img width="70" height="70" src="https://img.icons8.com/color/96/mysql-logo.png" alt="mysql-logo"/>
   <img width="70" height="70" src="Assets/postgresql.png"/>
 
- <h2>Tools/Ide's...</h2> 
- <img width="70" height="70" src="https://img.icons8.com/color/70/delphi-ide.png" alt="delphi-ide"/>
- <img width="70" height="70" src="https://img.icons8.com/fluency/70/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+ <h2>Frameworks / Ferramentas / Ide's:</h2> 
+ <img width="70" height="70" src="https://img.icons8.com/color/96/nodejs.png" alt="nodejs"/>
+<img width="70" height="70" src="https://img.icons8.com/fluency/96/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+ <img width="70" height="70" src="https://img.icons8.com/color/96/delphi-ide.png" alt="delphi-ide"/>
+
+ 
 </div>
 
-<h2> ✨My Github Status 👇 </h2>
+<h2> Outros Conhecimentos / Interesses: </h2>
 
-<div align="center">  
-  <a href="https://github.com/DevJoaoPBB">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevJoaoPBB&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJoaoPBB&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
-<h2> 📩 Find Me </h2>
+<div style="display: inline_block"><br>
+
+<img width="70" height="70" src="https://img.icons8.com/3d-fluency/96/radio-active.png" alt="radio-active"/>
+<img width="70" height="70" src="https://img.icons8.com/color/96/grey.png" alt="grey"/>
+<img width="70" height="70" src="https://img.icons8.com/external-wanicon-flat-wanicon/96/external-piston-car-service-wanicon-flat-wanicon.png" alt="external-piston-car-service-wanicon-flat-wanicon"/>
+<img width="70" height="70" src="https://img.icons8.com/external-wanicon-flat-wanicon/96/external-black-hole-space-wanicon-flat-wanicon.png" alt="external-black-hole-space-wanicon-flat-wanicon"/>
+
+      
+<h2> 📩 Entre em Contado</h2>
   
 <div>
   <a href="https://instagram.com/joao_pedro_boeing" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
